@@ -1,9 +1,12 @@
 ### Hi there 👋
-- 🔭 I’m currently working on ...
-- - 🌱 I’m currently learning ...
-- - ⚡ Fun fact: 篮球 羽毛球 单车
-<!--
-**caoxueyang/caoxueyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm working on
+HTML5 CSS3 JavaScript TypeScript React Webpack VS Code UE4
+
+My Github Actions
+Vortesnail's github stats
+
+About me
+🍉 I'm focusing on learning front-end knowledge, sometimes learning UE4.
 
 Here are some ideas to get you started:
 
