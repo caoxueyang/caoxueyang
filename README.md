@@ -1,15 +1,4 @@
 ### Hi there 👋
-I'm working on
-HTML5 CSS3 JavaScript TypeScript React Webpack VS Code UE4
-
-My Github Actions
-Vortesnail's github stats
-<--
-About me
-🍉 I'm focusing on learning front-end knowledge, sometimes learning UE4.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -17,5 +6,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-
--->
